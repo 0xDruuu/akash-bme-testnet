@@ -1,7 +1,7 @@
 # Akash BME Testnet Submission
 
 **Participant:** badrujaman 
-**Discord Handle:** druu306  
+**Discord Handle:** druue06  
 **Wallet Address:** akash1hc8ch6pygsyrscvhnx2tzmy3rqkrlwxn2cgahj  
 **Date:** 23 February 2026
 
